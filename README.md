@@ -17,7 +17,7 @@ First, install Violentmonkey for your browser:
 After installing Violentmonkey, click the button below:
 
 <a href="https://raw.githubusercontent.com/PorkSandwitch/MrBeast-Video-Blocker/main/mrbeast-video-blocker.user.js">
-<img src="https://img.shields.io/badge/INSTALL%20WITH-VIOLENTMONKEY-7c3aed?style=for-the-badge" alt="Install with Violentmonkey">
+<img src="https://img.shields.io/badge/INSTALL-7c3aed?style=for-the-badge" alt="Install">
 </a>
 
 Then click **Install** in Violentmonkey.
@@ -29,7 +29,7 @@ That's it. 🎉
 Want Shorts hidden too? Try the beta version:
 
 <a href="https://raw.githubusercontent.com/PorkSandwitch/MrBeast-Video-Blocker/main/mrbeast-video-blocker-beta.user.js">
-<img src="https://img.shields.io/badge/INSTALL%20BETA%20%7C%20HIDES%20SHORTS-7c3aed?style=for-the-badge" alt="Install Beta - Hides Shorts">
+<img src="https://img.shields.io/badge/BETA%20%7C%20HIDES%20SHORTS-7c3aed?style=for-the-badge" alt="Beta - Hides Shorts">
 </a>
 
 > ⚠️ Beta version — may have bugs or changes before becoming stable.
@@ -57,6 +57,15 @@ Want Shorts hidden too? Try the beta version:
 @BeastPhilanthropy
 @MrBeast2
 @BeastAnimations
+@MrBeastClips
+@MrBeastHindi
+@MrBeastBrasil
+@MrBeastGamingBrasil
+@MrBeastEnEspanol
+@MrBeastGamingEspanol
+@BeastReactsEspanol
+@MrBeastEnFrancais
+@MrBeastJapan
 ```
 
 ---
