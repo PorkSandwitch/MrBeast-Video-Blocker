@@ -24,6 +24,16 @@ Then click **Install** in Violentmonkey.
 
 That's it. 🎉
 
+### 🧪 Beta — Shorts Support
+
+Want Shorts hidden too? Try the beta version:
+
+<a href="https://raw.githubusercontent.com/PorkSandwitch/MrBeast-Video-Blocker/main/mrbeast-video-blocker-beta.user.js">
+<img src="https://img.shields.io/badge/INSTALL%20BETA%20%7C%20HIDES%20SHORTS-7c3aed?style=for-the-badge" alt="Install Beta - Hides Shorts">
+</a>
+
+> ⚠️ Beta version — may have bugs or changes before becoming stable.
+
 ---
 
 ## ✨ Features
@@ -32,12 +42,11 @@ That's it. 🎉
 - 🏠 Works on YouTube Home
 - 🔎 Works on Search results
 - 📺 Works on Subscriptions
-- 🎬 Works with Shorts feeds
 - 🔄 Handles dynamically loaded videos
 - ⚡ Lightweight and runs locally
 - 🔒 No tracking or external requests
 
-> **Note:** Shorts appearing directly in YouTube Search results cannot currently be hidden. Regular videos from blocked channels are still hidden normally.
+> **Note:** Shorts are not hidden by the stable version. Use the **Beta** version above if you want Shorts hidden too.
 
 ### Currently Blocked
 
@@ -79,13 +88,11 @@ Add the channel handle without the `@`:
 
 ## 🔒 Privacy
 
-MrBeast Video Blocker runs entirely in your browser.
+MrBeast Video Blocker runs in your browser.
 
 - No data collection
 - No tracking
-- No external APIs
 - No account required
-- No external requests
 
 ---
 
